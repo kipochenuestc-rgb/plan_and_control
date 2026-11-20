@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.log
+*.py[cod]
+*-preview.png
+preview.png
+keyboard-fix.png
+right-turn-buttons.png
+.env
+.env.*
